@@ -29,6 +29,6 @@ Me chamo Paulo, tenho 18 anos, moro em Aracaju/se e sou apaixonado por programa√
 
 <div align="center">
 
-![snake gif](https://github.com/Asulick/snake.yml/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Asulick/workflows/snake.yml/blob/output/github-contribution-grid-snake.svg)
   
 </div>
