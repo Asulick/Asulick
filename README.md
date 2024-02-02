@@ -1,7 +1,7 @@
 ### Olá! Eu sou Paulo César 
 Me chamo Paulo, tenho 18 anos, moro em Aracaju/se e sou apaixonado por programação e games! Sou aventureiro no universo da programação, criador oficial de bugs, quanto mais eu aprendo mais eu passo raiva, mas eu amo tudo isso!
 
-🎓 Tenho estudado Html, CSS, Js ( ainda estou penando nesse cara aqui ) e iniciei meus estudos recentemente no vue 3. Sempre buscando me aperfeiçoar
+🎓 Tenho estudado Html, CSS, Js ( ainda estou penando nesse cara aqui ). Sempre buscando me aperfeiçoar
 
 <div style="display: inline_block"><br>
   <img align="center" alt="paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
