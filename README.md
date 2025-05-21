@@ -1,8 +1,16 @@
-### Olá! Eu sou Paulo César 
+### Olá! Eu sou Paulo Fontes
 Me chamo Paulo, tenho 19 anos, moro em Aracaju/se e sou apaixonado por programação e games! Sou aventureiro no universo da programação, criador oficial de bugs, quanto mais eu aprendo mais eu passo raiva, mas eu amo tudo isso!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔍 Foco em Backend com Python | Flask | SQL  
+💼 Em busca de uma oportunidade de estágio como Desenvolvedor Backend  
+📫 Contato: paulocfontes5@gmail.com
 
-🎓 Tenho estudado Html, CSS e iniciei meus estudos recentemente no Python. Sempre buscando me aperfeiçoar
-Estudante de ADS (analise e desenvolvimento de sistemas).
+## 🚀 Tecnologias
+- Python, Flask, SQL
+- SQLite, PostgreSQL
+- Git, GitHub,
+- HTML, CSS (básico)
+
 Pretendo adquirir as certificações da aws IA, practitioner também!
 
 <div style="display: inline_block"><br>
