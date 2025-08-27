@@ -1,8 +1,8 @@
 ### Olá! Eu sou Paulo Fontes
 Me chamo Paulo, tenho 19 anos, moro em Aracaju/se e sou apaixonado por programação e games! Sou aventureiro no universo da programação, criador oficial de bugs, quanto mais eu aprendo mais eu passo raiva, mas eu amo tudo isso!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔍 Foco em Backend com Python | Flask | SQL  
-💼 Em busca de uma oportunidade de estágio como Desenvolvedor Backend  
+🔍 Foco em Backend com Python | Numpy | SQL | Pandas | 
+💼 Em busca de uma oportunidade de estágio como Análista de dados ou Desenvolvedor Backend  
 📫 Contato: paulocfontes5@gmail.com
 
 ## 🚀 Tecnologias
