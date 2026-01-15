@@ -58,6 +58,8 @@ Atualmente busco oportunidades como **Estágio Backend Java** ou posições **h�
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Asulick)
+![](https://github-readme-stats.vercel.app/api?username=Asulick&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Asulick&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asulick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
