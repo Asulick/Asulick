@@ -49,8 +49,8 @@ Atualmente busco oportunidades como **Estágio Backend Java** ou posições **h�
 
 ## 📫 Contato
 
-- 📧 Email: paulocfontes5@gmail.com  
-- 💼 LinkedIn: *(adicione o link)*  
+- 📧 Email: pauloc.fdeveloper@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/paulo-java-springboot  
 
 ---
 
